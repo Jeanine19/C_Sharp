@@ -1,0 +1,14 @@
+C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\bin\Debug\net8.0\Projetosavandes.exe
+C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\bin\Debug\net8.0\Projetosavandes.deps.json
+C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\bin\Debug\net8.0\Projetosavandes.runtimeconfig.json
+C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\bin\Debug\net8.0\Projetosavandes.dll
+C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\bin\Debug\net8.0\Projetosavandes.pdb
+C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\obj\Debug\net8.0\Projetosavandes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\obj\Debug\net8.0\Projetosavandes.AssemblyInfoInputs.cache
+C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\obj\Debug\net8.0\Projetosavandes.AssemblyInfo.cs
+C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\obj\Debug\net8.0\Projetosavandes.csproj.CoreCompileInputs.cache
+C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\obj\Debug\net8.0\Projetosavandes.dll
+C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\obj\Debug\net8.0\refint\Projetosavandes.dll
+C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\obj\Debug\net8.0\Projetosavandes.pdb
+C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\obj\Debug\net8.0\Projetosavandes.genruntimeconfig.cache
+C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\obj\Debug\net8.0\ref\Projetosavandes.dll
