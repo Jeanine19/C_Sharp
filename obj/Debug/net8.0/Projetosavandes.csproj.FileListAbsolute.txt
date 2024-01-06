@@ -12,3 +12,4 @@ C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\obj\Debug\net8.0\refin
 C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\obj\Debug\net8.0\Projetosavandes.pdb
 C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\obj\Debug\net8.0\Projetosavandes.genruntimeconfig.cache
 C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\obj\Debug\net8.0\ref\Projetosavandes.dll
+C:\Users\jeani\OneDrive\Área de Trabalho\Projetosavandes\obj\Debug\net8.0\Projetosavandes.sourcelink.json
