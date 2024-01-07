@@ -2,43 +2,52 @@
 using Projetosavandes.Models;
 
 
-string opcao;
+Pessoa2 p1 = new Pessoa2();
+p1.Nome = "Jeanine";
+p1.Sobrenome = "Santiago";
+p1.Idade = 30;
+p1.Apresentar();
+ 
 
-while(true)
-{
-    Console.Clear();
-    Console.WriteLine("Digite a sua opção:");
-    Console.WriteLine("1- Cadastrar Cliente");
-    Console.WriteLine("2- Buscar cliente");
-    Console.WriteLine("3- Apagar cliente");
-    Console.WriteLine("4- Encerrar");
 
-    opcao = Console.ReadLine();
 
-    switch (opcao)
-    {
-        case "1":
-            Console.WriteLine("Cadastro de cliente");
-            break;
+// string opcao;
 
-         case "2":
-            Console.WriteLine("Busca de cliente");
-            break;
+// while(true)
+// {
+//     Console.Clear();
+//     Console.WriteLine("Digite a sua opção:");
+//     Console.WriteLine("1- Cadastrar Cliente");
+//     Console.WriteLine("2- Buscar cliente");
+//     Console.WriteLine("3- Apagar cliente");
+//     Console.WriteLine("4- Encerrar");
 
-         case "3":
-            Console.WriteLine("Apagar cliente");
-            break;
+//     opcao = Console.ReadLine();
 
-         case "4":
-            Console.WriteLine("Encerrar");
-            Environment.Exit(0);
-            break;  
+//     switch (opcao)
+//     {
+//         case "1":
+//             Console.WriteLine("Cadastro de cliente");
+//             break;
 
-            default:
-            Console.WriteLine("Opção inválida");
-            break;  
-    }
-}
+//          case "2":
+//             Console.WriteLine("Busca de cliente");
+//             break;
+
+//          case "3":
+//             Console.WriteLine("Apagar cliente");
+//             break;
+
+//          case "4":
+//             Console.WriteLine("Encerrar");
+//             Environment.Exit(0);
+//             break;  
+
+//             default:
+//             Console.WriteLine("Opção inválida");
+//             break;  
+//     }
+// }
 
 
 // Calculadora calc = new Calculadora();
